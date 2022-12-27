@@ -13,3 +13,13 @@ I am an aspiring data scientist with strong skills in programming, mathematics, 
   Code Management: GitHub, Jupyter Notebook
   
 </details>
+
+<details>
+  <summary> Acme Gourmet Meal Analysis </summary>
+  
+  Description: 
+  
+  Language: Python, SQL
+  Code Management: GitHub, Jupyter Notebook, PostreSQL
+  
+</details>
