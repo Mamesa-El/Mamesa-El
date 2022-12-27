@@ -4,7 +4,7 @@ I am an aspiring data scientist with strong skills in programming, mathematics, 
 
 ## Projects
 
-The projects below are a compositions of data science and data analysis related projects that I've worked on during the MIDS program and my own time. 
+The projects below combine data science and data analysis-related projects that I've worked on during the MIDS program and my own time. Each project section provides statements of my contribution, a direct link to the repository, and the technologies required to finish the project. 
 
 <details>
   <summary> Social Media Influener Analysis</summary>
