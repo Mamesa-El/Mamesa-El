@@ -15,7 +15,7 @@ The projects below combine data science and data analysis-related projects that 
   
   **Language**: Python <br/>
   **Code Management**: GitHub, Jupyter Notebook
-
+  **Link**: This [folder](https://github.com/Mamesa-El/Projects/tree/main/Social%20Median%20Influencer) contains the final reports, jupyter notebook, and csv files. 
 </details>
 
 <details>
