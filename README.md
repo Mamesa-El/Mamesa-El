@@ -14,8 +14,9 @@ The projects below combine data science and data analysis-related projects that 
   **Description**: Using the top social media influencer data of 2021 for Youtube, Instagram, and TikTok platforms, we find a correlation between different types of influencer genres to their subscribers or views. We found that different genres, like sports channels, received more views/subscribers, and comments, while other genres are the opposite. 
   
   **Language**: Python <br/>
-  **Code Management**: GitHub, Jupyter Notebook
+  **Code Management**: GitHub, Jupyter Notebook <br/>
   **Link**: This [folder](https://github.com/Mamesa-El/Projects/tree/main/Social%20Median%20Influencer) contains the final reports, jupyter notebook, and csv files. 
+  
 </details>
 
 <details>
