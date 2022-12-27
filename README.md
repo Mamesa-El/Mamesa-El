@@ -9,19 +9,19 @@ The projects below combine data science and data analysis-related projects that 
 <details>
   <summary> Social Media Influener Analysis</summary>
   
-  Description: Using the top social media influencer data of 2021 for Youtube, Instagram, and TikTok platforms, we find a correlation between different types of influencer genres to their subscribers or views. We found that different genres, like sports channels, received more views/subscribers, and comments, while other genres are the opposite. 
+  **Description:** Using the top social media influencer data of 2021 for Youtube, Instagram, and TikTok platforms, we find a correlation between different types of influencer genres to their subscribers or views. We found that different genres, like sports channels, received more views/subscribers, and comments, while other genres are the opposite. 
   
-  Language: Python
-  Code Management: GitHub, Jupyter Notebook
+  **Language:** Python
+  **Code Management:** GitHub, Jupyter Notebook
   
 </details>
 
 <details>
   <summary> Acme Gourmet Meal Analysis </summary>
   
-  Description: Utilize PostgreSQL database to store ACME customers' data and python to evaluate the best predictor of sales (location, holidays, menus). I determined that the weekend of a holiday resulted in actual sales being 31% below the expected sales.
+  **Description:** Utilize PostgreSQL database to store ACME customers' data and python to evaluate the best predictor of sales (location, holidays, menus). I determined that the weekend of a holiday resulted in actual sales being 31% below the expected sales.
   
-  Language: Python, SQL
-  Code Management: GitHub, Jupyter Notebook, PostreSQL
+  **Language:** Python, SQL
+  **Code Management:** GitHub, Jupyter Notebook, PostreSQL
   
 </details>
