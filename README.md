@@ -7,6 +7,9 @@ I am an aspiring data scientist with strong skills in programming, mathematics, 
 <details>
   <summary> Social Media Influener Analysis</summary>
   
-  Test
+  Description: 
+  
+  Language: Python
+  Code Management: GitHub, Jupyter Notebook
   
 </details>
