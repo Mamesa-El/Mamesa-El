@@ -21,9 +21,9 @@ The projects below combine data science and data analysis-related projects that 
 <details>
   <summary> Acme Gourmet Meal Analysis </summary>
   <br/>
-  **Description:** Utilize PostgreSQL database to store ACME customers' data and python to evaluate the best predictor of sales (location, holidays, menus). I determined that the weekend of a holiday resulted in actual sales being 31% below the expected sales.
+  **Description**:: Utilize PostgreSQL database to store ACME customers' data and python to evaluate the best predictor of sales (location, holidays, menus). I determined that the weekend of a holiday resulted in actual sales being 31% below the expected sales.
   
-  **Language:** Python, SQL
-  **Code Management:** GitHub, Jupyter Notebook, PostreSQL
+  **Language**: Python, SQL <br/>
+  **Code Management**: GitHub, Jupyter Notebook, PostreSQL
   
 </details>
