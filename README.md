@@ -1,6 +1,6 @@
 ## About me 
 
-I am an aspiring data scientist with strong skills in programming, mathematics, and physics. Currently pursuing a master degree in data science, with 2+ years of experience utilizing Python and SQL for data analysis.
+I am a data science master's candidate at UC Berkeley with a solid foundation in programming, mathematics, and physics. Currently, I'm honing my skills as a Data Scientist Intern at TextVolt, an SMS solution company. Passionate about leveraging my expertise to address complex challenges in technology and industries where a deep understanding of physics is essential.
 
 ## Projects
 
